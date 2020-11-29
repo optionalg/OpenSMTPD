@@ -1,5 +1,5 @@
 # Example Shodan Key : 4YPxT4aPnOnd7ba1tViLIYfjfj4V4bEN
-# Made by HellSec
+# Edited by HellSec
 # Idea By papi robert#0673
 
 import time, sys, threading, shodan, requests
