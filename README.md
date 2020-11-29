@@ -8,6 +8,7 @@ A mass exploitation tool for CVE 2020-8793
 The Shodan API to find vulnerable devices and mass sends a payload to the target
 
 To customize the payload :
+
 s.send(bytes(f'MAIL FROM:<;{payload};>\r\n', 'utf-8'))
 
 Change the variable 'payload' to your desired payload 
@@ -17,11 +18,11 @@ Change the variable 'payload' to your desired payload
 
 # TODO
 
-- [ ] Release Main Code
+- [x] Release Main Code
 - [ ] Add Threading
-- [ ] Add Payload Input
-- [ ] Make Error Outputs
-- [ ] Make Time Logs
+- [x] Add Payload Input
+- [x] Make Error Outputs
+- [x] Make Time Logs
 
 ----------------------------------------------------------------------------------
 
