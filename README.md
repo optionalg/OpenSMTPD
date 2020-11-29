@@ -37,4 +37,4 @@ Change the variable 'payload' to your desired payload
 
 # Example
 
-![Picture]()
+![Example](https://i.imgur.com/CYeopPK.png)
